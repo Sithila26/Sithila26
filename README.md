@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sithila Sathsara</h1>
-<h3 align="center">Computer Networks Undergraduate | Aspiring Network & Security Engineer | Frontend Developer</h3>
-
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sithila26&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=180&section=header&text=Sithila%20Sathsara&fontSize=35&fontColor=ffffff" />
+</p>
+
+<!-- TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Computer+Networks+Undergraduate;Aspiring+Network+%26+Security+Engineer;Cisco+%7C+Wireshark+%7C+Linux+Learner;Cybersecurity+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Networking Fundamentals, Cybersecurity Basics, PHP**
-- 💡 Strong knowledge in **TCP/IP, Subnetting, Routing, OSI Model**
-- 💬 Ask me about **HTML, CSS, Bootstrap, MySQL, Basic Networking**
-- 🎯 Career goal: Become a **Network & Security Engineer**
-- 📫 Reach me at: **sithilasathsara@gmail.com**
+- 🌱 I’m currently learning **Networking, Cybersecurity, PHP**
+- 💡 Strong in **TCP/IP, Subnetting, Routing, OSI Model**
+- 💬 Ask me about **Networking, HTML, CSS, MySQL**
+- 📫 Reach me at **sithilasathsara@gmail.com**
+
+---
+
+## 🏆 Skill Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge&logo=cisco" />
+<img src="https://img.shields.io/badge/Cybersecurity-Student-red?style=for-the-badge&logo=hackthebox" />
+<img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/Networking-TCP/IP-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-Learning-black?style=for-the-badge&logo=linux" />
+
+</p>
 
 ---
 
@@ -21,62 +37,79 @@
 
 ### 💻 Web Development
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
 ---
 
-### 🌐 Networking & Simulation Tools
+### 🌐 Networking & Tools
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="40" alt="Cisco Packet Tracer"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/cisco.svg" width="40" alt="GNS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Wireshark_icon.svg" width="40" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/>
+  <img src="https://cdn.simpleicons.org/gns3/000000" width="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/>
 </p>
 
 ---
 
-### 🔐 Cybersecurity & Concepts
+### 🔐 Cybersecurity & Enterprise
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2091/2091941.png" width="40" alt="Cyber Security"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" alt="Network Security"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" title="Cisco ASA"/>
+  <img src="https://cdn.simpleicons.org/fortinet/E00000" width="40" title="Fortigate"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40" title="SASE"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" title="Zero Trust"/>
 </p>
 
 ---
 
-### 🐧 Operating Systems & Cloud
+### 🖥️ OS & Cloud
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" width="40" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/windows/0078D6" width="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="40"/>
 </p>
 
 ---
 
 ### 🎨 Design Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 </p>
 
 ---
 
-### 🧑‍💻 Programming Basics
+### 🧑‍💻 Programming
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </p>
+
+---
+
+## 📌 Projects Showcase
+
+### 🔹 Networking Projects
+- 🧪 **Cisco Packet Tracer Labs**
+  - Subnetting, VLANs, Routing simulations
+  - Basic network topology design
+
+- 🔍 **Wireshark Traffic Analysis**
+  - Packet capturing & protocol analysis
+  - TCP/UDP inspection
+
+---
+
+### 🔹 Web Development Projects
+- 🌐 **PHP + MySQL Login System**
+  - User authentication system
+  - CRUD operations
+
+- 🏨 **Travel Website Project**
+  - Frontend UI using HTML/CSS/Bootstrap
+  - Responsive design
 
 ---
 
@@ -92,19 +125,19 @@
 
 ---
 
-## 📌 Current Focus
+## 📈 Current Focus
 
-- Strengthening **Networking fundamentals (TCP/IP, Routing, Subnetting)**
-- Learning **Cybersecurity basics and system security**
-- Improving **PHP & backend development**
-- Practicing **Wireshark & Packet Tracer labs**
-- Building **real-world troubleshooting skills**
+- Networking (Subnetting, Routing, TCP/IP)
+- Cybersecurity & Firewall Concepts
+- Wireshark Packet Analysis
+- PHP Backend Development
+- Real-world troubleshooting skills
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="mailto:sithilasathsara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -112,4 +145,6 @@
 
 ---
 
-⭐ *“Consistency builds mastery.”*
+<p align="center">
+⭐ <b>Consistency builds mastery</b> ⭐
+</p>
