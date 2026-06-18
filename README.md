@@ -1,16 +1,15 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=200&section=header&text=Sithila%20Sathsara&fontSize=38&fontColor=ffffff" />
 </p>
 
-<!-- ================= TYPING INTRO ================= -->
+<!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Networks+Undergraduate;Aspiring+Network+%26+Security+Engineer;Cisco+Packet+Tracer+%7C+Wireshark+%7C+Linux+Learner;Cybersecurity+%7C+Networking+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Networks+Undergraduate;Aspiring+Network+%26+Security+Engineer;Cisco+Packet+Tracer+%7C+Wireshark+%7C+Linux+Learner;Cybersecurity+Focused" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Networking & Cybersecurity**
@@ -20,7 +19,6 @@
 
 ---
 
-<!-- ================= BADGES ================= -->
 ## 🏆 Skill Badges
 
 <p align="center">
@@ -36,8 +34,9 @@
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
+
+---
 
 ### 💻 Web Development
 <p align="left">
@@ -51,13 +50,13 @@
 ### 🌐 Networking Tools
 <p align="left">
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45"/>
-  <img src="https://cdn.simpleicons.org/gns3/000000" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gns3/gns3-original.svg" width="45"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
 </p>
 
 ---
 
-### 🔐 Cybersecurity & Enterprise
+### 🔐 Cybersecurity & Enterprise Security
 <p align="left">
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45"/>
   <img src="https://cdn.simpleicons.org/fortinet/E00000" width="45"/>
@@ -67,34 +66,47 @@
 
 ---
 
-### 🖥️ Operating Systems & Cloud
+### 🖥️ Operating Systems & Cloud (FIXED 100%)
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D6" width="45"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45"/>
+
+<!-- Linux -->
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="45"/>
+
+<!-- WINDOWS FIX (OFFICIAL MICROSOFT LOGO CDN) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="45"/>
+
+<!-- AZURE FIX (OFFICIAL SVG CDN) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="45"/>
+
 </p>
 
 ---
 
-### 🎨 Design Tools
+### 🎨 Design Tools (FIXED 100%)
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
+
+<!-- CANVA FIX (OFFICIAL SIMPLEICONS) -->
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
+
+<!-- PHOTOSHOP FIX -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45"/>
+
 </p>
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
 ## 📌 Current Focus
 
 - Networking (Subnetting, Routing, TCP/IP)
 - Cybersecurity fundamentals
 - Wireshark packet analysis
 - Linux system basics
-- Firewall & security concepts
+- Firewall & enterprise security concepts
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
