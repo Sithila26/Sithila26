@@ -50,7 +50,6 @@
 ### 🌐 Networking Tools
 <p align="left">
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gns3/gns3-original.svg" width="45"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
 </p>
 
@@ -66,7 +65,7 @@
 
 ---
 
-### 🖥️ Operating Systems & Cloud (FIXED 100%)
+### 🖥️ Operating Systems & Cloud
 
 <p align="left">
 
@@ -83,12 +82,12 @@
 
 ---
 
-### 🎨 Design Tools (FIXED 100%)
+### 🎨 Design Tools 
 
 <p align="left">
 
 <!-- CANVA FIX (OFFICIAL SIMPLEICONS) -->
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="45"/>
+
 
 <!-- PHOTOSHOP FIX -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45"/>
